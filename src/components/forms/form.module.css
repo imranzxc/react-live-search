@@ -1,0 +1,18 @@
+form {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 50px;
+}
+
+.input {
+  width: 700px;
+  padding: 20px;
+  border: none;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  outline: 0;
+  font-size: 24px;
+}
+
+.input:focus {
+  outline: 3px solid rgb(0, 174, 255);
+}
